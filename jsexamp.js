@@ -136,7 +136,7 @@ for(let i = 0; i < str.length; i++){
   }
 }
 console.log(count);
-console.log("Dinesh")
+console.log("Gowtham")
 
 
 // pyramid pattern
